@@ -3,6 +3,7 @@ package com.testAutomationCoach.aAbstraccion;
 public class EjemploPerro {
     public static void main(String[] args) {
         Perro fido = new Perro();
+        //Perro fido = new Perro();
         fido.nombre = "Fido";
         fido.raza = "Gran Danes";
         fido.tamanio = 45.0;

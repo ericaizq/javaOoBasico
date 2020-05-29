@@ -1,6 +1,28 @@
 package com.testAutomationCoach.aAbstraccion;
 
 public class Cancion {
-    //atributos: titulo, artista, duracion, letra, anio lanzamiento
-    //metodos reproducir, editar, grabar, etc...
+    String titulo;
+    String artista;
+    Double duracion;
+    String letra;
+    int añoLanzamiento;
+
+    public void reproducir() {
+
+
+    }
+
+    public void editar() {
+
+
+    }
+
+    public void grabar() {
+
+
+    }
+
+
+
+
 }
