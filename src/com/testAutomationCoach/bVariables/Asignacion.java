@@ -23,6 +23,7 @@ public class Asignacion {
     }
 
     public static boolean esMayorEdad(int edad) {
+
         return edad >= 18;
     }
 }
